@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Landing_menu.unity
+    guid: 9728981e5950c384181e56c4f3e85c71
+  - enabled: 1
+    path: Assets/Scenes/EarthquakeScene.unity
+    guid: e14732087dbb1e8439a6c67338b67057
+  m_configObjects: {}
